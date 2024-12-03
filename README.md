@@ -1,4 +1,6 @@
 # Design Patterns
+
+- Alunos: ***Emerson Okopnik e Murilo Costa Bittencourt***
 ## Descrição
 - Projeto desenvolvido para atividade na materia de *"Linguagem de Programação e Paradigmas"*
 - foi utilizado o framework React para o frontend e a biblioteca de componentes *PrimeReact*
