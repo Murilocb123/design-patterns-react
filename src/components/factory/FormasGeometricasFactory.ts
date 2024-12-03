@@ -8,6 +8,11 @@ import { FormaGeometrica } from "./interface/FormaGeometrica";
 
 export class FormasGeometricasFactory {
     
+    /**
+     * Método que cria uma forma geométrica apartir de um enum
+     * @param forma 
+     * @returns FormaGeometrica | null
+     **/
     static createFormaGeometrica(forma: FormasGeometricas): FormaGeometrica |null {
         switch (forma) {
             case FormasGeometricas.CIRCULO:
